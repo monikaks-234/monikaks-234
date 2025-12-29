@@ -9,7 +9,7 @@
 ## 🚀 About Me
 - 🔭 I'm currently pursuing **M.Tech in Artificial Intelligence (2024–2026)** at **REVA University**
 - 🎓 Completed **B.E in Computer Science & Engineering (2020–2024)**  
-- 💡 Interested in **AI/ML, Deep Learning, NLP, Computer Vision, Data Science**
+- 💡 Interested in **AI/ML, NLP, Computer Vision, Data Science**
 - 📫 Reach me at **monika2023ks@gmail.com**
 - 🌐 LinkedIn: **[Monika K S](http://www.linkedin.com/in/monika-k-s-2a3813213)**
 
